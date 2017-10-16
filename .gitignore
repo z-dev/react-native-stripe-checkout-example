@@ -51,3 +51,8 @@ buck-out/
 fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
+
+.vscode/
+ios/assets/
+yarn.lock
+package-lock.json

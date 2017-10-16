@@ -14,7 +14,6 @@ export default () => {
         }}
         styles={{}} // Override default styles <LINK HERE>
         onCardNumberBlur={() => console.log('card number blurred')}
-        onCardNumberFocus={() => console.log('card number focused')}
         onCvcFocus={() => console.log('cvc focused')}
         onCvcBlur={() => console.log('cvc blurred')}
         onExpiryFocus={() => console.log('expiry focused')}
