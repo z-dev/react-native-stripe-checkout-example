@@ -18,6 +18,6 @@ const Examples = TabNavigator({
   },
 }, {
   lazy: true
-})
+});
 
-AppRegistry.registerComponent('ReactNativeCheckoutExample', () => Examples)
+AppRegistry.registerComponent('ReactNativeCheckoutExample', () => Examples);

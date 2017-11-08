@@ -10,7 +10,7 @@ var config = {
     return [
       // Keep your project directory.
       path.resolve(__dirname),
-      path.resolve(__dirname, "../react-native-checkout"),
+      path.resolve(__dirname, "../react-native-checkout-example"),
     ];
   },
   // getBlacklistRE: function() {
